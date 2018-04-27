@@ -1,0 +1,9 @@
+.important {
+  font-weight: bold;
+  font-style: italic;
+  color: red;
+}
+
+div.Maya {
+  font-family: sans-serif;
+}
